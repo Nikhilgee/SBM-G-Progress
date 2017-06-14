@@ -1,1 +1,4 @@
 # SBM-G-Progress
+The datafile has district level reported progress of the Swacch Bharat Mission - Grameen against the baseline survey on rural sanitation unsertaken in 2012. The data on the 2012 baseline and their progress till April 25th, 2017 have been downloaded from http://sbm.gov.in/sbmreport/Report/Physical/SBM_Target_Vs_Achievement.aspx on the said date. These districts are matched to the the census codes of 2011 Census. 
+
+The Programme was being implemented in 678 districts as per the MIS. The districts that are newly formed have been matched to their 2011 parents and coded as 'C_Parentcode'. The parent districts are flagged and the districts carved out from them are indicated. The matching between Census and the MIS data has been done through namematching and subsequently manually verified. For districts formed after the census 2011 round, the matching has been done via newsreports on the internet. Unresolved cases have been indicated as such. 
